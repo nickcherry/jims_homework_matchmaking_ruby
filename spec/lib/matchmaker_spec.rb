@@ -97,4 +97,3 @@ describe Matchmaker do
     end
   end
 end
-
